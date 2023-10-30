@@ -1,0 +1,15 @@
+.monospace {
+    font-family: "JetBrains Mono", monospace;
+}
+
+.serif {
+    font-family: serif;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italics {
+    font-style: italic;
+}
