@@ -1,0 +1,49 @@
+figcaption {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 3em;
+}
+
+ul {
+    list-style-image: url("bullet.png");
+    vertical-align: center;
+    margin-left: 40px;
+}
+
+li {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 64px;
+}
+
+span {
+    vertical-align: center;
+}
+
+.main {
+    background-color: white;
+    width: 70%;
+    float: left;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+}
+
+.info {
+    font-size: 1em;
+    margin-left: 15%;
+ }
+
+body {
+    background-image: url("img.png");
+}
+
+img {
+    width: 100%;
+}
+
+p {
+    text-transform: uppercase;
+    color: aquamarine;
+    font-family: "JetBrains Mono", monospace;
+}
