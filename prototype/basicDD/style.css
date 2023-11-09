@@ -1,0 +1,9 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: "JetBrains Mono", monospace;
+}
+
+.header {
+    background-color: #121212;
+}
