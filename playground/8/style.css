@@ -1,0 +1,12 @@
+.first-paragraph {
+    font-style: normal;
+    font-family: monospace;
+}
+
+.first-paragraph:first-letter {
+    float: left;
+    color: gold;
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: -0.5em;
+}
